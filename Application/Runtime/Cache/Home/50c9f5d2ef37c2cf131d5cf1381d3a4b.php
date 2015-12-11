@@ -11,7 +11,7 @@
 		<table>
 			<tr>
 				<td>name:</td>
-				<td><input type="text" id="user_id" name="user_id"></td>
+				<td><input type="text" id="user_name" name="user_name"></td>
 			</tr>
 			<tr>
 				<td>password</td>

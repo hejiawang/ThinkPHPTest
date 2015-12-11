@@ -14,6 +14,7 @@ class UserController extends BaseController {
 	
 	public function index() {
 		$this->show ( 'user controller index </br>' );
+		$this->display();
 	}
 }
 ?>
